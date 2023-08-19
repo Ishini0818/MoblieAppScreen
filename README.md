@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 # MoblieAppScreen
 
 ![loginscreen](https://github.com/Ishini0818/MoblieAppScreen/assets/101697017/90a0f2ea-2512-4c42-9ed0-640aef963ebe) <br>
-![Screenshot (581)](https://github.com/Ishini0818/MoblieAppScreen/assets/101697017/841488fe-20f3-44b2-a6fe-2ca205759e3a)
+
 
